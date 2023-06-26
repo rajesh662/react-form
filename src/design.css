@@ -1,0 +1,90 @@
+.form{
+    background-color: rgb(211, 237, 237);
+}
+.form label {
+    font-size: 20px;
+    font-weight: 600;
+}
+.form .button{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+.form .requred{
+    color: red;
+    font-weight: 600;
+}
+.table {
+    padding: 30px;
+}
+.table th,td{
+    padding: 15px;
+}
+.table th{
+    font-size: 18px;
+    font-weight: 600;
+}
+.table td{
+    font-size: 16px;
+}
+.table button{
+    margin: 0px 20px;
+    border: none;
+}
+.form1{
+    text-align: center;
+    width: 350px;
+   height: 380px;
+    border-radius: 10px;
+    background-color:ghostwhite;
+}
+.form1 input {
+    width: 60%;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
+.form1 label{
+    width: 25%;
+    color: darkgoldenrod;
+    font-size: 18px;
+    font-weight: 600;
+}
+.form1 .button{
+    margin-top: 50px;
+    color: white;
+    background-color: darkgoldenrod;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.form1 h2{
+    font-weight: 700;
+    color:darkgoldenrod;
+}
+.form1 .requred{
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid black;
+    padding: 8px;
+    background-color: orange;
+}
+table th{
+    background-color: orange;
+}
+.home-btn a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid black;
+    padding: 8px;
+    background-color: rgb(211, 237, 237);
+}
